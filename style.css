@@ -1,0 +1,76 @@
+body{
+    text-align: left;
+}
+
+#title{
+    margin-top:30px;
+    padding:30px;
+    background-color: rgb(29, 95, 218);
+    color:cornsilk;
+    border-radius: 10px;
+}
+
+#alert_crying{
+    visibility: hidden;
+    background-color: rgb(255, 61, 100);
+    color:white;
+    padding:10px;
+    padding-left:30px;
+    border-radius: 10px;
+    margin-top:10px;
+    margin-bottom:10px;
+    font-size: 20px;
+    height:0px;
+}
+
+#values{
+    padding:30px;
+    margin-top: 20px;
+}
+
+#value{
+    margin-bottom:20px;
+}
+
+#tempValue{
+    font-size:40px;
+    font-weight:semibold;
+    color:rgb(29, 95, 218);
+}
+
+#symbol{
+    color:rgb(29, 95, 218);
+}
+
+#cryingState{
+    font-size:40px;
+    font-weight:semibold;
+    color:rgb(29, 95, 218);
+}
+
+#humidValue{
+    font-size:40px;
+    font-weight:semibold;
+    color:rgb(29, 95, 218);
+}
+
+#unit{
+    color:rgb(29, 95, 218);
+}
+
+#states{
+    padding:30px;
+}
+
+.state-card{
+    padding:20px;
+}
+
+.state-card>.label{
+    font-size:20px;
+    font-weight:bold;
+    color:rgb(1, 16, 44);
+    margin-bottom:20px;
+}
+
+
